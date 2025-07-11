@@ -41,7 +41,7 @@ Clone o repositório:
 
 Bash
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/eslbcdev/detona-ralph-game.git
 Abra o arquivo principal:
 Navegue até a pasta do projeto e abra o arquivo index.html no seu navegador de preferência.
 
