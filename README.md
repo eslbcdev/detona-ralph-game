@@ -12,7 +12,7 @@ Este foi um projeto desenvolvido como parte dos meus estudos em JavaScript, com 
 
 <img width="1481" height="706" alt="image" src="https://github.com/user-attachments/assets/996cc66e-dea1-4c6b-9de9-3af749a14713" />
 
-➡️ Clique aqui para jogar agora!
+➡️ Clique <a href="https://eslbcdev.github.io/detona-ralph-game/">aqui</a> para jogar agora!
 
 ✨ Funcionalidades
 Timer Regressivo: Você tem 60 segundos para provar que é o melhor!
@@ -32,7 +32,7 @@ JavaScript (ES6+): Lógica principal do jogo, manipulação do DOM e gerenciamen
 
 🎮 Como Jogar
 Online
-Basta acessar o link da demonstração ao vivo: JOGAR AGORA
+Basta acessar o link da demonstração ao vivo: <a href="https://eslbcdev.github.io/detona-ralph-game/">JOGAR AGORA</a>
 
 Localmente
 Se você quiser rodar o projeto na sua própria máquina, siga os passos abaixo:
